@@ -1,4 +1,4 @@
-FROM        hasufell/gentoo-php5.6:20150820
+FROM        hasufell/gentoo-php5.6:latest
 MAINTAINER  Julian Ospald <hasufell@gentoo.org>
 
 
